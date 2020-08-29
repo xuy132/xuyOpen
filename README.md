@@ -1,5 +1,5 @@
 # 路由器固件自动编译
-[![OpenWrt](https://img.shields.io/badge/From-xuxi-abc-blue.svg?style=for-the-badge&logo=appveyor)](https://github.com/xuxi-abc/xuyOpen)
+[![OpenWrt](https://img.shields.io/badge/From-danxiaonuo-blue.svg?style=for-the-badge&logo=appveyor)](https://github.com/danxiaonuo/AutoBuild-OpenWrt)
 >固件来源：
 [![Lean](https://img.shields.io/badge/Lede-Lean-red.svg?style=flat&logo=appveyor)](https://github.com/coolsnowwolf/lede) 
  [![Lienol](https://img.shields.io/badge/Package-Lienol-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/Lienol/openwrt-package)  [![CTCGFW](https://img.shields.io/badge/OpenWrt-CTCGFW-orange.svg?style=flat&logo=appveyor)](https://github.com/project-openwrt/openwrt) [![UOLA](https://img.shields.io/badge/OpenWrt-UOLA-orange.svg?style=flat&logo=appveyor)](https://github.com/danxiaonuo/uola)
